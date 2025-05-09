@@ -28,7 +28,7 @@ const About = () => {
                 <p>
                   Spearheaded troubleshooting efforts, identifying and fixing
                   over 1,000 bugs and technical issues, ensuring optimal
-                  functionality throughout the production lifycycle
+                  functionality throughout the production lifecycle
                 </p>
                 <br />
                 <p className="text-m  md:text-md leading-tight">
