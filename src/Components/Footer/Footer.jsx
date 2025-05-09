@@ -26,7 +26,7 @@ function Footer() {
             
             <li>
                 <CiLinkedin />
-                <a href="https://www.linkedin.com/in/wageshwari-vaishnavi-69124a23a/" target="_blank">https://www.linkedin.com/in/wageshwari-vaishnavi</a>
+                <a href="https://www.linkedin.com/in/wageshwari-vaishnavi-69124a23a/" target="_blank">https://www.linkedin.com/in/wageshwari-vaishnavi-69124a23a/</a>
             </li>
             <li> 
                 <FaGithub />
